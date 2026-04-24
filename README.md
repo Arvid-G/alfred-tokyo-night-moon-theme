@@ -20,7 +20,7 @@ Tokyo Day:
 Taken from my other Alfred Theme (Nord: https://github.com/Arvid-G/alfred-nord-theme)
 (but same process):
 
-Click on the tokyo-night-moon.alfredappearance file.
+Click on the Tokyo Night.alfredappearance or the Tokyo Day.alfredappearance file (what every you prefer (or both ;) ).
 <img width="937" height="267" alt="image" src="https://github.com/user-attachments/assets/fb250868-bcb6-4ab5-ae56-6d83b850a43a" />
 
 Then click download raw file.
