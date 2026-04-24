@@ -8,8 +8,10 @@ Just a simple port of the Nord theme for Alfred (the Spotlight alternative on Ma
 
 ---
 ## Download Instructions:
+Taken from my other Alfred Theme (Nord: https://github.com/Arvid-G/alfred-nord-theme)
+(but same process):
 
-Click on the nord.alfredappearance file.
+Click on the tokyo-night-moon.alfredappearance file.
 <img width="937" height="267" alt="image" src="https://github.com/user-attachments/assets/fb250868-bcb6-4ab5-ae56-6d83b850a43a" />
 
 Then click download raw file.
