@@ -3,7 +3,16 @@ A port of the tokyonight moon theme variant from tokyonight.nvim.
 
 Just a simple port of the Nord theme for Alfred (the Spotlight alternative on MacOS).
 
+Tokyo Night:
+
 <img width="764" height="630" alt="image" src="https://github.com/user-attachments/assets/761bb177-1822-411e-97ae-aef250f0d53f" />
+
+
+An opinionated light theme is also available.
+
+Tokyo Day:
+
+<img width="764" height="630" alt="image" src="https://github.com/user-attachments/assets/ca3e4d8f-480c-41eb-87c3-51842af3438a" />
 
 
 ---
