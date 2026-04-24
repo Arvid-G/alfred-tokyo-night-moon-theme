@@ -1,5 +1,5 @@
 # Alfred Tokyo Night Theme (Moon variant)
-A port of the tokyonight moon theme variant from tokyonight.nvim.
+A port of the tokyonight moon theme variant from tokyonight.nvim and an opinonated light mode coined Tokyo Day.
 
 Just a simple port of the Nord theme for Alfred (the Spotlight alternative on MacOS).
 
